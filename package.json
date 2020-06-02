@@ -1,0 +1,10 @@
+{
+    "name": "leonharper.co.uk",
+    "dependencies": {
+        "vue": "^2.6.11"
+    },
+    "devDependencies": {
+        "serve": "^11.3.1",
+        "vue-cli": "^2.9.6"
+    }
+}
